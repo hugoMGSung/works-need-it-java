@@ -24,3 +24,10 @@ hs_err_pid*
 .classpath
 .project
 *.prefs
+.jsdtscope
+
+# add directories
+*.settings/
+*target/
+*.sh
+*.bat
